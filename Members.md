@@ -306,3 +306,11 @@ __Country__: India
 __About__: Namaste, I am 3rd year Computer science student at Arya College of Engineering and IT. I like blogging, problem solving, learning and exploring new stuff. I am looking forward to contribute more and do good to society. I believe that Life is learning and learning is life and one should be positive with things around them.
 __Tech Stack__: C, Java, Python, Git, Front-End developer(MERN stack), ReactJs, MySQL, Google Cloud Platform(beginner), AWS, VS Code, Data Science Enthusiast
 __Social Handles__: [Twitter](https://twitter.com/ssaumyaa_7) | [GitHub](https://github.com/ssaumyaa7) | [Email](mailto:saumya4799@gmail.com) | [Instagram](https://www.instagram.com/ssaumyaa_7) | [LinkedIn](https://www.linkedin.com/in/ssaumyaa7/)  
+
+
+- __Name__: Rushikesh Suryawanshi   
+__Country__: India   
+__About__: Final Year CS Undergraduate, from Nashik. I like exploring new things, connecting with people, networking. Drop me a message. Would Love to connect !   
+__Tech Stack__: C, C++, Java, Kotlin, Python, Git, Android Developer, Firebase, MySQL, Google Cloud Platform(beginner), Docker, Kubernetes.   
+__Social Handles__: [Twitter](https://twitter.com/ihrishii) | [GitHub](https://github.com/rushikeshsuryawanshi/) | [Email](mailto:suryawanshirushikesh90@gmail.com) | [Instagram](https://www.instagram.com/rushikeshsuryawanshii/) | [LinkedIn](https://www.linkedin.com/in/rushikeshsuryawanshi/)   
+__Website__: [Portfolio](https://www.ihrishi.tech/)  
